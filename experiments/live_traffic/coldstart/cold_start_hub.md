@@ -1,6 +1,6 @@
-# 📘 Node: Cold Start 研究脉络
+# 🧊 Cold Start Hub
 
-> **Parent:** [live_traffic_hub.md](./live_traffic_hub.md)  
+> **Parent:** [live_traffic_hub.md](../live_traffic_hub.md)  
 > **Date:** 2026-01-21 | **Status:** 🌱探索
 
 ---
